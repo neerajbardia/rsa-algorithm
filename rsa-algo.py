@@ -1,3 +1,6 @@
+#rsa algorithm
+#enter two large prime nos and then let it do its magic (NOTE: the recursion limit might need to be changed)
+
 import random
 import sys
 sys.setrecursionlimit(10**6) 
